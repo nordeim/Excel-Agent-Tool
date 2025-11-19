@@ -31,7 +31,7 @@ Traditional Excel libraries require complex Python code and offer no formula val
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone repository
-git clone https://github.com/your-org/excel-agent-tool.git
+git clone https://github.com/nordeim/excel-agent-tool.git
 cd excel-agent-tool
 
 # Install dependencies
@@ -45,7 +45,7 @@ uv python tools/excel_create_new.py --help
 
 ```bash
 # Clone repository
-git clone https://github.com/your-org/excel-agent-tool.git
+git clone https://github.com/nordeim/excel-agent-tool.git
 cd excel-agent-tool
 
 # Install dependencies
